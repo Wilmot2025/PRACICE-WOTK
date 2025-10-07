@@ -15,5 +15,16 @@ print(car_price)
 car_mileage = 15000
 print(car_mileage)
 car_owner = "Wilmot Okai"
+print(car_owner)
+
+x = y = z = 'Orange' # x, y, and z all refer to the same object
+print(x)
+print(y)
+print(z)  
+
+a, b, c = "Orange", "Banana", "Cherry" # a, b, and c are different objects
+print(a)    
+print(b) 
+print(c)
 
 
