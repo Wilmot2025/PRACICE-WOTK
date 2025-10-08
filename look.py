@@ -7,3 +7,8 @@ print("John Doe")
 age = 30
 print(" age")    
 print("30")
+
+
+a = 'Hello'
+b = 'World'
+print(a + b)
