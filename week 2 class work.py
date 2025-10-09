@@ -46,7 +46,10 @@ print(a * 3, b)  # Repeating the string 3 times and using a comma to separate th
 print(a.lower())  # Convert to lowercase
 print(a.upper())  # Convert to uppercase                
 print(a.strip())  # Remove whitespace from the beginning and end of the string
-print(a.replace('H', 'J'))  # Replace 'H' with 'J'      
+print(a.replace('H', 'J'))  # Replace 'H' with 'J'   
+print(a.split(','))  # Split the string at the comma    
+print(a.split(' '))  # Split the string at the space
+print(a.split('l'))  # Split the string at the letter 'l'
 
 
 
