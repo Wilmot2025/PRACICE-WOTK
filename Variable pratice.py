@@ -22,7 +22,7 @@ print(name[1:])  # Output: ohn
 print(name[-4:-1])  # Output: Joh       
 print (name[1:-1])
 
-print( "the gap out put is : ",name "])  # Output: John
+print("the gap out put is : ",name "])  # Output: John
 
 
 
