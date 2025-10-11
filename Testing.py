@@ -25,9 +25,19 @@ print(a) # Modulus
 print(a) # Floor Division
 
 my_string="Wilmot"
-Print(my_string.upper()) 
+print(my_string.upper()) 
 my_string=("Wilmot" )
 print(my_string.lower()) 
 my_string =my_string.split (",")
-new_string = my_string.replace("Wilmot", "Okai")  
-
+my_wilmot = "Wilmot"
+my_Okai = my_wilmot.replace("Wilmot", "Okai")  
+print(my_Okai) 
+print(len(my_wilmot)) # Length
+print(len(my_Okai)) # Length
+print(my_wilmot[3]) # Indexing  
+print(my_wilmot[0:3]) # Slicing
+print(my_wilmot[0:]) # Slicing          
+print(my_wilmot[-1]) # Negative Indexing
+print(my_wilmot[-3:]) # Negative Slicing
+print(my_wilmot[-6:]) # Negative Slicing
+print(my_wilmot[-6:-3]) # Negative Slicing   
