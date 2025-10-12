@@ -24,12 +24,7 @@ print(a) # Division
 print(a) # Modulus
 print(a) # Floor Division
 
-my_string="Wilmot"
-print(my_string.upper()) 
-my_string=("Wilmot" )
-print(my_string.lower()) 
-my_string =my_string.split (",")
-my_wilmot = "Wilmot"
+
 my_Okai = my_wilmot.replace("Wilmot", "Okai")  
 print(my_Okai) 
 print(len(my_wilmot)) # Length
