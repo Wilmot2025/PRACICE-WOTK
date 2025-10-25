@@ -1,5 +1,4 @@
 Bitwise Operators: &, |, ^, ~, <<, >>
-
 # & =>  Bitwise AND
 # | =>  Bitwise OR           
 # ^ =>  Bitwise XOR
