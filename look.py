@@ -48,3 +48,7 @@ print(sqr)
 
 sq_even = [i**2 for i in range(10) if i%2==0]   #squaring only even numbers
 print(sq_even)
+
+fruit = ["banana", "mango", "orange", "pineapple", "apple"]
+fruit2 = [i.upper() for i in fruit]   # converting all fruit to uppercase
+print(fruit2)
