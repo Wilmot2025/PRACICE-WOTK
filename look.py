@@ -45,3 +45,6 @@ print(double)
 sqr=[i**2 for i in range(10)]       # take the value from 0 to 9 and suqareit
 sqr2=[i**2 for i in range(1,11,2)]  
 print(sqr)
+
+sq_even = [i**2 for i in range(10) if i%2==0]   #squaring only even numbers
+print(sq_even)
