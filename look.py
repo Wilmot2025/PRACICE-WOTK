@@ -26,3 +26,22 @@ for i in range(1, 21, 2):
 Fruit= ( "banana", "mango", "orange", "pineapple", "apple")
 for i in Fruit:
     print(i)    
+
+# creating list of squares of first 10 whole number
+sq=[]  
+print(f"before entering the loop {sq}")
+for i in range (10):
+    square = i**2
+    sq.append(square)
+print(sq)   
+
+# create a list of double numbers from 1 to 10
+double=[]
+for i in range (1,11):  
+    double.append(i*2)  
+print(double)   
+
+# List of comprehension, a short way of creating list.
+sqr=[i**2 for i in range(10)]       # take the value from 0 to 9 and suqareit
+sqr2=[i**2 for i in range(1,11,2)]  
+print(sqr)
