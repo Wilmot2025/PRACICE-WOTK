@@ -21,4 +21,8 @@ print("Wilmot Okai Jr")
 for i in range(2, 21, 2):
     print(i)    
 for i in range(1, 21, 2):
-    print(i)
+    print(i)    
+
+Fruit= ( "banana", "mango", "orange", "pineapple", "apple")
+for i in Fruit:
+    print(i)    
