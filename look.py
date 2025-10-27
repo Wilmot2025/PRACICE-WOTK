@@ -52,3 +52,7 @@ print(sq_even)
 fruit = ["banana", "mango", "orange", "pineapple", "apple"]
 fruit2 = [i.upper() for i in fruit]   # converting all fruit to uppercase
 print(fruit2)
+
+fruit=["banana", "mango", "orange", "pineapple", "apple"]
+fruit2 = [i for i in fruit if "b" in i]   # selecting fruits that contain "a"
+print(fruit2)
