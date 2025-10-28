@@ -56,3 +56,7 @@ print(fruit2)
 fruit=["banana", "mango", "orange", "pineapple", "apple"]
 fruit2 = [i for i in fruit if "b" in i]   # selecting fruits that contain "a"
 print(fruit2)
+
+sum=0
+for i in range(1,21):
+    print("sum of first 20 natural number is:", sum)

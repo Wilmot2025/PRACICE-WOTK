@@ -5,3 +5,6 @@ dict_data = {
     "hobbies": ["reading", "painting", "swimming"],
     "occupation": "Engineer"
 }
+
+
+print(dict_data)
