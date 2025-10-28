@@ -13,5 +13,8 @@ string = "concatination"
 print("Original string:", string)
 
 for ch in string:
-    if ch in 'aei':
+    if ch in 'aeiou':
         print(ch)
+
+
+        
