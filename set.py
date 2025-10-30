@@ -67,8 +67,7 @@ print(frozen_set)
 # <class 'frozenset'>
 # frozenset({1, 2, 3, 4, 5})    
 
-# Note: The pop method will raise an AttributeError since frozensets are immutable and do not support item removal.
-# AttributeError: 'frozenset' object has no attribute 'pop'
+
 
  
 
