@@ -53,4 +53,4 @@ dict_items([('name', 'John'), ('age', 30), ('city', 'New York'), ('hobbies', ['r
 John    
 
     # method returns None if key not found
-None
+
