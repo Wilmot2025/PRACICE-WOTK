@@ -35,4 +35,19 @@ set()
 setA = {1, 2, 3, 4}
 setB = {3, 4, 5, 6} 
 intersection = setA & setB  
-print(intersection)
+print(intersection) 
+union = setA | setB  
+print(union)
+difference = setA - setB  
+print(difference)
+#Output:
+{3, 4}
+{1, 2, 3, 4, 5, 6}
+{1, 2}  
+# set comprehension
+squared_set = {x**2 for x in range(1, 6)}   
+
+print(squared_set)
+#Output:    
+{1, 4, 9, 16, 25}
+        
