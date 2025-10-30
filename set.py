@@ -58,8 +58,19 @@ frozen_set = frozenset([1, 2, 3, 4, 5])
 print(frozen_set)           
 print(type(frozen_set))
 
+#pop,clear, different, symetric method removes and returns an arbitrary element from the set
+removed_element = frozen_set.pop()
+print(removed_element)
+print(frozen_set)   
+# Output:
+# frozenset({1, 2, 3, 4, 5})    
+# <class 'frozenset'>
+# frozenset({1, 2, 3, 4, 5})    
 
+# Note: The pop method will raise an AttributeError since frozensets are immutable and do not support item removal.
+# AttributeError: 'frozenset' object has no attribute 'pop'
 
+ 
 
 
 
