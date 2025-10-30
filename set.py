@@ -62,10 +62,8 @@ print(type(frozen_set))
 removed_element = frozen_set.pop()
 print(removed_element)
 print(frozen_set)   
-# Output:
-# frozenset({1, 2, 3, 4, 5})    
-# <class 'frozenset'>
-# frozenset({1, 2, 3, 4, 5})    
+  
+  
 
 
 
