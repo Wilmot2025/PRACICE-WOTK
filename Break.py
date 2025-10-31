@@ -9,5 +9,16 @@ for i in range(0,10):
         break   
     print(i)    
     
+
+for i in range(0,20,2): 
+    if i == 12:
+        continue
+    print(i)    
+
+for i in range(0,20,2):
+    if i == 12:
+        break
+    print(i)
+
     
     #continue is used to skip the current iteration when the condition is met
