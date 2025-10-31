@@ -20,17 +20,6 @@ my_set.clear()
 print(my_set)
 del my_set
 # Output (for reference):
-# ('jones', 'Doe', 42, 'jones@example.com')
-# <class 'tuple'>
-# {1, 2, 3, 4, 5}
-# <class 'set'>
-# {1, 2, 3, 4, 5, 6}
-# {1, 2, 3, 4, 5, 6}
-# {1, 2, 3, 4, 5, 6}
-# {1, 2, 3, 4, 5, 6}
-# {1, 2, 3, 4, 5}
-# set()
-
 # set intersection, union, and difference operations can also be performed using methods like .intersection(), .union(), and .difference().
 setA = {1, 2, 3, 4}
 setB = {3, 4, 5, 6}
