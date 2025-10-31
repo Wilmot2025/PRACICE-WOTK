@@ -20,5 +20,14 @@ for i in range(0,20,2):
         break
     print(i)
 
+for i in range(0,20,3):
+    if i == 14:
+        continue
+    print(i)
+
+for i in range(0,20,4):
+    if i == 16:
+        break   
+    print(i)    
     
     #continue is used to skip the current iteration when the condition is met
