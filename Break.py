@@ -42,8 +42,8 @@ for i in range(1, 6):
    
 
 for item in ["apple", "banana", "bread", "orange"]:
-    if item == "banana":
-        continue  # skip "banana"
     if item == "bread":
+        continue  # skip "banana"
+    if item == "orange":
         break     # stop loop when you reach "bread"
     print(item)
