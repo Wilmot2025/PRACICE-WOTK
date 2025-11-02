@@ -31,3 +31,19 @@ for i in range(0,20,4):
     print(i)    
     
     #continue is used to skip the current iteration when the condition is met
+
+for i in range(1, 6):   
+    if i == 2:
+        continue  # skips printing 2
+    if i == 4:
+        break      # stops loop when i is 4
+    print(i)
+
+   
+
+for item in ["apple", "banana", "bread", "orange"]:
+    if item == "banana":
+        continue  # skip "banana"
+    if item == "bread":
+        break     # stop loop when you reach "bread"
+    print(item)
