@@ -1,6 +1,18 @@
-mutable_list = [1, 2, 3]
-mutable_list[0] = 10  # Modifying the first element
-print(mutable_list)  # Output: [10, 2, 3]
+mutable_list = [1, 2, 3]  # Creating a list
+print(mutable_list)  # Output: [1, 2, 3]
+
+immutable_tuple = (1, 2, 3)  # Creating a tuple
+print(immutable_tuple)  # Output: (1, 2, 3)
+# Lists are mutable, so we can change their contents
+# Tuples are immutable, so we cannot change their contents
+# Lists are defined using square brackets [], while tuples use parentheses ()
+
+imutable_list = ["apple", "bread", "watermelon", "soap", "oil"]   
+print(mutable_list)
+
+imutable_list.append("milk")  # Adding an element to the list
+print(mutable_list)  # Output: ['apple', 'bread', 'watermelon', 'soap', 'oil', 'milk']
+ 
 
 immutable_tuple = (1, 2, 3) 
 # immutable_tuple[0] = 10  # This will raise a TypeError    
