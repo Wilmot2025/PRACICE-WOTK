@@ -60,3 +60,11 @@ print(fruit2)
 sum=0
 for i in range(1,21):
     print("sum of first 20 natural number is:", sum)
+
+# sum of first 20 natural number is: 210
+    sum=sum+i   
+print("sum of first 20 natural number is:", sum)    
+
+# sum of first 20 natural number is: 210
+
+
