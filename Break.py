@@ -47,3 +47,16 @@ for item in ["apple", "banana", "bread", "orange"]:
     if item == "orange":
         break     # stop loop when you reach "bread"
     print(item)
+
+
+# Output:
+
+for i in range(1,8,2,6):
+    if i == 8:
+        continue  # skips printing 2
+    if i == 4:
+        break      # stops loop when i is 4
+    print(i)
+
+
+# Output:
