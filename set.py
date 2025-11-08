@@ -48,9 +48,7 @@ print(frozen_set)
 print(type(frozen_set))
 
 #pop,clear, different, symetric method removes and returns an arbitrary element from the set
-removed_element = frozen_set.pop()
-print(removed_element)
-print(frozen_set)   
+  
   
 set =   {1, 2, 3, 4, 5}
 set.clear()
@@ -64,7 +62,8 @@ print(set)
 set =   {10,20, 40, 70, 80}
 set.difference_update({10, 20, 30})
 
-
+my_set = { 22,34,55,66,77,88, 55, 55, 110, 200 }  
+print(my_set.discard(55))
 
 
  
