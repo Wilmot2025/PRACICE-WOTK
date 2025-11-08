@@ -65,6 +65,9 @@ set.difference_update({10, 20, 30})
 my_set = { 22,34,55,66,77,88, 55, 55, 110, 200 }  
 print(my_set.discard(55))
 
+my_set = { 22,34,55,66,77,88, 110, 200 }
+print(my_set)  
+my_set.add(202)
 
  
 
