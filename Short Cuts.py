@@ -17,5 +17,5 @@ shortcuts = {
 	"ctrl+T": "new tab",
 	"ctrl+W": "close tab",
 	"ctrl+B": "back",
-	"ctrl+F": "forward"
+	"ctrl+F": "forward"		
 }
