@@ -1,3 +1,10 @@
+def greet(Wilmot):
+    print(f"Good Morning,{Wilmot}!")    
+greet("wilmot")
+greet("Suhani") 
+greet("Nisha")  
+greet("Sharik")
+greet("Rahul")
 # Function => 
 # what is function in python =>
 
