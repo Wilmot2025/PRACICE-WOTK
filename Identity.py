@@ -12,5 +12,11 @@ togar_list = [ 1111, 2333, 443, 455, 6665 ]
 togar_list1 = togar_list    
 print ( togar_list is togar_list1 ) # True
 
+uhani_list = [ 1111, 2333, 443, 455, 6665 ]
+print(suhani_list)
+
+nisha_list = suhani_list
+print("nisha list : ", nisha_list)
+print(suhani_list is nisha_list)  # true
 
 
