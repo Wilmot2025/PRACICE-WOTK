@@ -1,17 +1,17 @@
 def greet(Wilmot):
     print(f"Good Morning,{Wilmot}!")    
 greet("wilmot")
-greet("Suhani") 
-greet("Nisha")  
-greet("Sharik")
-greet("Rahul")
+greet("Saybioh") 
+greet(" Ritchie")  
+greet("Chreish")
+greet("George")
 # Function => 
 # what is function in python =>
 
 def my_function():
-    print("This is Suhani")
-    print("this is Nisha")
-    print("this is Sharik")
+    print("This is Wilmot")
+    print("this is Saybioh")
+    print("this is Cherish")
 
 print("This is the first time i am calling my function")
 my_function()  # function call
@@ -34,6 +34,37 @@ print("it's the third time i am calling my function")
 my_function() 
 
 
+# function => it's the block of code. 
+# => and we can use it whenever we want.
+# => we can save our time and effort.
+
+# how to define a function in python =>
+# function definition syntax :-
+def Wilmot_function():
+    print("This is Togar")
 
 
+Wilmot_function()  # function call
 
+# 1. def => it is keyword to define a function.
+# 2. Wilmot_function => it is the name of function.
+# 3. () => parentheses are used to pass parameters to function.
+# 4. : => colon is used to indicate the start of function body.
+# 5. print("This is Suhani") => it is the content  of function.
+# in c languages , we define function like this.
+# function Wilmot_function() {
+print("This is Suhani")
+
+def my_function():
+          print(a)
+
+# what is function in python?
+# how to define a function in python?
+# how to call a function in python?
+# what are advantages of function in python?
+# what's the use cases of function in python?
+
+def my_function():
+    print("This is Togar")
+    print("this is Ritchie")
+    print("this is Cherist")
