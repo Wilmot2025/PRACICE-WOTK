@@ -3,3 +3,4 @@
 suhani_list = [ 1, 2, 3, 4, 5 ]
 suhani_list1 = [ 1, 2, 3, 4, 5 ]    
 print ( suhani_list is suhani_list1 ) # False
+print ( suhani_list == suhani_list1 ) # True
