@@ -19,8 +19,8 @@ for i in range(0, 3):
 #starting point => 0 
 #ending point => 3 , excluded
 
-for i in range(0,20):    ##  2 times 
-    print("Use this as sequence for loop")
+for i in range(0,10):    ##  2 times 
+    print("Use this as odd for loop")
     for K in range(0,1):   ## 1 time
         print("the value of i: ", i, "the value of K:", K)
 
