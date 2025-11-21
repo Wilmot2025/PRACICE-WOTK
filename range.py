@@ -22,9 +22,20 @@ for i in range(1,4):
             print(i,end=" ")
             print()
 
+for i in range(0, 2):    ##  2 times 
+    print("this is my first for loop")
+    for j in range(0,1):   ## 1 time 
+        print("the value of i: ", i, "the value of j:", j)
 
+for i in range(0, 3):    ##  2 times 
+    print("this is my second for loop")
+    for T in range(0,2):   ## 1 time 
+        print("the value of i: ", i, "the value of T:", T)
 
-        
+for i in range(0, 4):    ##  2 times    
+    print("this is my third for loop")  
+    for O in range(0,3):   ## 1 time 
+        print("the value of i: ", i, "the value of O:", O)
 
  
  
