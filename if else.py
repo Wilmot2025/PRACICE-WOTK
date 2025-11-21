@@ -52,3 +52,18 @@ if age >= 18:
 
 else: 
                     print("you are not eligible to vote")
+# task : write a program to check if a person is eligible for voting
+age = int(input("Hi GUYS! Enter your age: "))
+if age >= 18 :
+        print("yes , you are eligible to vote")
+else: 
+     print("you are not eligigble to vote")
+age = int(input("Hii GUYS! Enter your age: "))
+citizen = input("enter your citizership: ")
+if age >= 18 :
+        if citizen.lower() == 'indian':
+                print("yes , you are eligible to vote")
+        else:
+                print("you are not eligible to vote")
+else: 
+        print("you are not eligigble to vote")
