@@ -75,3 +75,11 @@ def find_square():
     print("hii WImot here is your sqr: ",my_variable * my_variable)
 find_square()
     
+#first one 
+def even_check(i):
+    if i%2 == 0:
+        print("even")
+    else:
+        print("odd")
+v = int(input("Enter Number -> "))
+even_check(v)
