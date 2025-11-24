@@ -1,18 +1,24 @@
-def print_your_name():
-    print("Hi! this is Togar")
-print_your_name()
+def print_father_name():
+    print("father name is Dolo")
+print_father_name()
 
-def print_your_age():
-    print("I am 19 years old")
-print_your_age()        
+def print_father_age():
+    print("father age is 70 years old")
+print_father_age()        
 
-def print_wife_name():
-    print("her name is Saybioh")
-print_wife_name()  
+def print_Mother_name():
+    print("her name is Marlyne")
+print_Mother_name()  
 
 def print_wife_age():
     print("she is 18 years old")    
 print_wife_age()    
 def print_children_name(): 
     print("my children name are chersih and Ritchie")
-print_children_name()
+print_children_name()       
+
+def print_children_age():
+    print("they are 11 and 2 years old")
+print_children_age()    
+
+
