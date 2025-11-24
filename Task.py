@@ -25,4 +25,18 @@ print_children_age()
 def print_sum_of_two_elemnt(a,b):
     print("the sum of two elemt:", a + b)
 
-print_sum_of_two_elemnt(8,80)
+print_sum_of_two_elemnt(8,80)   
+
+def print_sub_of_two_elemnt(a,b):
+    print("the sub of two elemt:", a - b)       
+
+print_sub_of_two_elemnt(8,80)   
+
+
+def print_mul_of_two_elemnt(a,b):    
+    print("the mul of two elemt:", a * b)
+
+print_mul_of_two_elemnt(8,80)
+
+def print_div_of_two_elemnt(a,b):       
+        print("the div of two elemt:", a / b)
