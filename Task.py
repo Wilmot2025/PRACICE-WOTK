@@ -41,4 +41,13 @@ print_mul_of_two_elemnt(8,80)
 def print_div_of_two_elemnt(a,b):       
         print("the div of two elemt:", a / b)
 
-        
+print_div_of_two_elemnt(8,80)   
+def print_mod_of_two_elemnt(a,b):       
+        print("the mod of two elemt:", a % b)   
+
+print_mod_of_two_elemnt(8,80)   
+def print_pow_of_two_elemnt(a,b):   
+        print("the pow of two elemt:", a ** b)  
+
+print_pow_of_two_elemnt(8,80)   
+
