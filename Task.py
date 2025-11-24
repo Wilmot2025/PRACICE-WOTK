@@ -40,3 +40,5 @@ print_mul_of_two_elemnt(8,80)
 
 def print_div_of_two_elemnt(a,b):       
         print("the div of two elemt:", a / b)
+
+        
