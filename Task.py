@@ -22,3 +22,7 @@ def print_children_age():
 print_children_age()    
 
 
+def print_sum_of_two_elemnt(a,b):
+    print("the sum of two elemt:", a + b)
+
+print_sum_of_two_elemnt(8,80)
