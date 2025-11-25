@@ -16,4 +16,8 @@ print(name[0:3])
 print(name[0:5])
 print(name[0:9])    
 
-
+# string concatenation
+print(name + " Okai")
+print(name + " Okai" + " Okai") 
+print(name + " Okai" + " Okai" + " Okai")   
+print(name + " Wilmot" + "Wilmot" + " Okai" + " Okai")
