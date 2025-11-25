@@ -21,4 +21,8 @@ my_list.index(18)
 print(my_list)  
 
 v = my_list.count(12)
-print(v)
+print(v)    
+
+
+my_list.reverse()   
+print(my_list)  
