@@ -26,3 +26,6 @@ print(name + " Wilmot" + "Wilmot" + " Okai" + " Okai")
 print(len(name))
 # string indexing   
 print(name[2])  
+
+Wilmot = "Wilmot Okai"
+print(Wilmot[0:6])  
