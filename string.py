@@ -9,3 +9,11 @@ print(name[6])
 print(name[7])
 print(name[8])
 print(name[9])
+print(name[10]) 
+
+# string slicing 
+print(name[0:3])    
+print(name[0:5])
+print(name[0:9])    
+
+
