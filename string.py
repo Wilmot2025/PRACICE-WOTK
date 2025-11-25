@@ -20,4 +20,9 @@ print(name[0:9])
 print(name + " Okai")
 print(name + " Okai" + " Okai") 
 print(name + " Okai" + " Okai" + " Okai")   
-print(name + " Wilmot" + "Wilmot" + " Okai" + " Okai")
+print(name + " Wilmot" + "Wilmot" + " Okai" + " Okai")  
+
+# string length
+print(len(name))
+# string indexing   
+print(name[2])  
