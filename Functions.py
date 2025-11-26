@@ -1,3 +1,6 @@
+name = (input("Enter your name: "))  # calling the function
+print(" you enter: ",name )
+
 def greet(Wilmot):
     print(f"Good Morning,{Wilmot}!")    
 greet("wilmot")
@@ -103,3 +106,4 @@ x = int(input("Enter starting range -> "))
 y = int(input("Enter ending range-> "))
 print(f"Even no. from {x} and {y}:- ")
 even_check(x,y)
+
