@@ -54,3 +54,10 @@ for row in range(5):
         else:
             print("Okai", end=" ")
     print()
+
+
+
+
+
+n=5
+print("*" * n)
