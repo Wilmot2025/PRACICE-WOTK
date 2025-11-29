@@ -1,4 +1,4 @@
-# woring witn tupie
+# woring with tupie
 numone = ('abcdefghij')
 print(numone[1:5])  
 
