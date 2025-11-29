@@ -12,8 +12,10 @@ print(my_set)
 
 my_set.remove(3)
 print(my_set)
+
 my_set.discard(10)
 print(my_set)
+
 my_set.pop()
 print(my_set)
 my_set.clear()
@@ -25,8 +27,10 @@ setA = {1, 2, 3, 4}
 setB = {3, 4, 5, 6}
 intersection = setA & setB
 print(intersection)
+# Output:
 union = setA | setB
 print(union)
+
 difference = setA - setB
 print(difference)
 # Output:
