@@ -10,4 +10,7 @@ def total_students():
                     print(std_class)
 total_students()    
 
-print(rainer)
+print(rainer)   
+print(std_class)    # local variable can't be used outside the function
+# print(std_class)
+    
