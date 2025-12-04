@@ -1,3 +1,8 @@
+#set is a collection of data which is unordered and unindexed. 
+# In Python sets are written with curly brackets.
+#  Sets are mutable. Sets cannot have two items with the same value.  
+
+
 perso = ("jones", "Doe", 42, "jones@example.com")
 print("Person Tuple:", perso)
 print(type(perso))
