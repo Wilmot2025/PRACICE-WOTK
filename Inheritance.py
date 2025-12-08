@@ -21,3 +21,4 @@ class Son(Father):
 # Type of class  parent class,( base or super class
 # child class (derived or sub class
 #The class whos properities and mehtods are inherited is called pare
+
