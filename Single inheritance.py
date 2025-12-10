@@ -18,7 +18,7 @@ print(obj_Son.grandFather_property)
 obj_Son.grandfather_assets()
 print(obj_Son.Father_property)
 obj_Son.father_assets()
-print(obj_Son.son_property)
+print(obj_Son.Son_property)
 obj_Son.son_assets()
                   
   
