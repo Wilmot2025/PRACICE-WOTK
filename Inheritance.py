@@ -22,3 +22,12 @@ class Son(Father):
 # child class (derived or sub class
 #The class whos properities and mehtods are inherited is called pare
 
+class grandson(Son):
+    def grandson_assets(self):
+        print("Grandson's assets")
+
+# Create an instance of the grandson class
+grandson_instance = grandson()
+
+# Call the grandson_assets method
+grandson_instance.grandson_assets()
